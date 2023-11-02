@@ -1,0 +1,10 @@
+.env
+
+# Ignorer le dossier venv
+venv/
+
+# Ignorer tous les dossiers __pycache__
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
